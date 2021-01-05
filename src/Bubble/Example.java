@@ -1,16 +1,10 @@
+
 package Bubble;
-
-
-
 public class Example{
-
 	public static void main(String[] args) {
 		int[]numbers = {10,5,8,3,7};
-		
-		  bubbleSort(numbers);
+			  bubbleSort(numbers);
 		  //printArray(numbers);
-		 
-
 }
 public static int [] bubbleSort(int[] A) {
 	for(int i =0;i<A.length;i++) {

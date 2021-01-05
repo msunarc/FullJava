@@ -1,3 +1,4 @@
+
 package Studyconstruct;
 
 public class Study3 extends Studyb {
